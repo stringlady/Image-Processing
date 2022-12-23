@@ -1,0 +1,27 @@
+load berryguitar.ppm guitar
+brighten 40 guitar bright-guitar
+grayscale-red guitar gred-guitar
+grayscale-green guitar ggreen-guitar
+grayscale-blue guitar gblue-guitar
+grayscale-value guitar gval-guitar
+grayscale-intensity guitar gintense-guitar
+grayscale-luma guitar gluma-guitar
+vertical-flip guitar vflip-guitar
+horizontal-flip guitar hflip-guitar
+blur guitar blur-guitar
+sharpen guitar sharp-guitar
+matrix-grayscale guitar mgray-guitar
+sepia-tone guitar sepia-guitar
+save bright-guitar.png bright-guitar
+save gred-guitar.jpg gred-guitar
+save ggreen-guitar.ppm ggreen-guitar
+save gblue-guitar.bmp gblue-guitar
+save gval-guitar.ppm gval-guitar
+save gintense-guitar.jpg gintense-guitar
+save gluma-guitar.png gluma-guitar
+save vflip-guitar.ppm vflip-guitar
+save hflip-guitar.bmp hflip-guitar
+save blur-guitar.ppm blur-guitar
+save sharp-guitar.ppm sharp-guitar
+save mgray-guitar.jpg mgray-guitar
+save sepia-guitar.png sepia-guitar
